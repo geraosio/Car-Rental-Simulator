@@ -1,0 +1,43 @@
+*** MEX ***
+
+-Monterrey
+Aeropuerto de Monterrey
+
+-Cancun
+Aeropuerto de Cancun
+Ciudad / Centro de Cancun
+Zona Hotelera de Cancun
+ADO Bus Terminal Cancun
+Plaza Flamingo
+
+-Puerto Juarez
+Puerto Juarez Ferry
+
+-Playa del Carmen
+Playa del Carmen Centro
+Playa del Carmen Ferry
+ADO Bus Terminal Playa del Carmen
+
+-Riviera Maya
+Akumal
+Riviera Maya
+Puerto Aventuras
+
+-Tulum
+Tulum
+
+-Merida
+Aeropuerto de Merida
+Merida Hotel Zone
+Merida CAME
+
+-Ciudad de Mexico
+Apto. de Cd. de Mexico
+
+-Los Cabos
+Aeropuerto de Los Cabos
+
+*** USA ***
+
+-California
+Los Angeles Airport

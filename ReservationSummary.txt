@@ -1,0 +1,23 @@
+	*RESUMEN DE SU RESERVACION*
+
+- Lugar que escogio para RECOGER el carro:
+Los Angeles Airport (California, USA)
+
+- Tiempo que escogio para RECOGER el carro:
+2017-05-02 13:30
+
+- Lugar que escogio para DEVOLVER el carro:
+Aeropuerto de Los Cabos (Los Cabos, MEX)
+
+- Tiempo que escogio para DEVOLVER el carro:
+2017-05-05 14:30
+
+- Carro seleccionado:
+Standard, Automatica - Nissan Versa - $630.00 / dia
+
+- Tiempo total de la renta:
+
+
+	***Total a pagar***
+	    $2520.00 MXN
+

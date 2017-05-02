@@ -1,0 +1,10 @@
+Economy, Manual - Hyundai Grand I10 = 480
+Economy, Manual - Chevrolet Spark = 480
+Compact, Manual - VW Gol Sedan = 510
+Intermediate, Automatica - Chevrolet Aveo = 570
+Full Size, Automatica - VW Jetta Style = 825
+Mini Van, Automatica - Chrysler Town & Country = 1650
+Intermediate SUV, Automatica - Mitsubishi Asx = 975
+Premium Van, Automatica - Chevrolet Suburban 4x4 8pax = 2400
+Standard, Automatica - Nissan Versa = 630
+Standard Van, Manual - VW Transporter Diesel = 1800
